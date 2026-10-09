@@ -1,0 +1,8 @@
+# Environment variables and secrets
+.env
+
+# Application logs
+*.log
+
+# Temporary files
+*.tmp
