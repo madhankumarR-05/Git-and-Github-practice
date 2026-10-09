@@ -7,3 +7,7 @@ A practice project for learning Git and GitHub workflows.
 - Development
 - Testing
 - Production
+
+## Features
+
+- Secure document management
