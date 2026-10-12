@@ -1,1 +1,1 @@
-application code
+app_name = "Healthcare Portal"
