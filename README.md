@@ -11,3 +11,5 @@ A practice project for learning Git and GitHub workflows.
 ## Features
 
 - Secure document management
+
+- Git fetch practice: testing remote changes before integrating them locally.
