@@ -1,2 +1,2 @@
 app_name = "Healthcare Portal"
-app_description = "Hospital Operations Management"
+app_description = "Patient Care, Administration, and Appointment Scheduling"
